@@ -39,8 +39,8 @@ all database related actions are isolated within a single transaction so the dat
 
 See implementation examples:
 
-- [blog API server](https://github.com/DATA-DOG/go-sqlmock/tree/master/examples/blog)
-- [the same orders example](https://github.com/DATA-DOG/go-sqlmock/tree/master/examples/orders)
+- [blog API server](https://github.com/DATA-DOG/go-sqlmock/tree/master/_examples/blog)
+- [the same orders example](https://github.com/DATA-DOG/go-sqlmock/tree/master/_examples/orders)
 
 ### Something you may want to test, assuming you use the [go-mysql-driver](https://github.com/go-sql-driver/mysql)
 
